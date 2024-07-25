@@ -61,12 +61,12 @@ a{
 .features-container{
 	display: flex;
 	align-items: center;
+	width: 60%;
 	flex-wrap: wrap;
 	
 }
 
 .text-container{
-	width: 400px;
 	padding: 10px;
 }
 
