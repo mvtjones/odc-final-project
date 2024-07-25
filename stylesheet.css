@@ -61,7 +61,7 @@ a{
 .features-container{
 	display: flex;
 	align-items: center;
-	flex-wrap: no-wrap;
+	flex-wrap: wrap;
 	
 }
 
